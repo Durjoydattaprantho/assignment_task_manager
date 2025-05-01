@@ -61,7 +61,7 @@ class task_manager extends StatelessWidget {
           ),
         ),
       ),
-          // home: SplashScreen(),
+          home: SplashScreen(),
     );
   }
 }
